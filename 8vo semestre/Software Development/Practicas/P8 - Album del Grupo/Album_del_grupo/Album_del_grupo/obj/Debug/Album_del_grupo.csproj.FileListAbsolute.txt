@@ -1,0 +1,20 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\bin\Debug\Album_del_grupo.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P8 - Album del Grupo\Album_del_grupo\Album_del_grupo\obj\Debug\Album_del_grupo.csproj.GenerateResource.Cache
