@@ -1,0 +1,27 @@
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\bin\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\bin\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P12 - Alarma\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\bin\Debug\Alarma.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\bin\Debug\Alarma.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\bin\Debug\Alarma.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13 - Alarma\Alarma\Alarma\obj\Debug\Alarma.csproj.GenerateResource.Cache
