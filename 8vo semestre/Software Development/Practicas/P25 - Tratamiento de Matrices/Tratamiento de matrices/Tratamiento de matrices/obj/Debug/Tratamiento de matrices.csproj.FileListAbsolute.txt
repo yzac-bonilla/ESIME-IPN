@@ -1,0 +1,27 @@
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe.config
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Form1.resources
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Properties.Resources.resources
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csproj.GenerateResource.Cache
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.pdb
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.exe
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.pdb
+C:\Users\IPN\Documents\Visual Studio 2015\Projects\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP20x\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\bin\Debug\Tratamiento de matrices.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento_de_matrices.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P25 - Tratamiento de Matrices\Tratamiento de matrices\Tratamiento de matrices\obj\Debug\Tratamiento de matrices.csproj.GenerateResource.Cache
