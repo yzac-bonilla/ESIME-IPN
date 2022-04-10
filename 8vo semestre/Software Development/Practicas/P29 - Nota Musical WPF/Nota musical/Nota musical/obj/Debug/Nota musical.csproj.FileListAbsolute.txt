@@ -1,0 +1,53 @@
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\bin\Debug\Nota musical.exe.config
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\bin\Debug\Nota musical.exe
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\bin\Debug\Nota musical.pdb
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical.csprojResolveAssemblyReference.cache
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\MainWindow.g.cs
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\App.g.cs
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.cache
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.lref
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\MainWindow.baml
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical.g.resources
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota_musical.Properties.Resources.resources
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical.exe
+H:\Ingenieria de software\Practicas\nueva\Nota musical\Nota musical\obj\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19\Nota musical\Nota musical\bin\Debug\Nota musical.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19\Nota musical\Nota musical\obj\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19\Nota musical\Nota musical\obj\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\bin\Debug\Nota musical.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\Nota musical.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\MainWindow.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\App.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP19x\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.lref
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\MainWindow.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\App.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.lref
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\MainWindow.baml
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.g.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota_musical.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\bin\Debug\Nota musical.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\MainWindow.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\App.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical_MarkupCompile.lref
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\MainWindow.baml
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.g.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota_musical.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P29 - Nota Musical WPF\Nota musical\Nota musical\obj\Debug\Nota musical.csproj.GenerateResource.Cache
