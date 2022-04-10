@@ -1,0 +1,48 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csprojResolveAssemblyReference.cache
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.pdb
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Form1.resources
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csproj.GenerateResource.Cache
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.pdb
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csprojResolveAssemblyReference.cache
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Form1.resources
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Properties.Resources.resources
+E:\Users\¥zac\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csproj.GenerateResource.Cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\bin\Debug\Tabla_periodica.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P6 - Tabla Periodica\Tabla_periodica\Tabla_periodica\obj\Debug\Tabla_periodica.csproj.GenerateResource.Cache
