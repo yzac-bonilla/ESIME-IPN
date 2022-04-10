@@ -1,0 +1,26 @@
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\bin\Debug\Pelota.exe.config
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\bin\Debug\Pelota.exe
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\bin\Debug\Pelota.pdb
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\obj\Debug\Pelota.Form1.resources
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\obj\Debug\Pelota.Properties.Resources.resources
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\obj\Debug\Pelota.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\obj\Debug\Pelota.exe
+H:\Ingenieria de software\Nueva carpeta\Pelota\Pelota\obj\Debug\Pelota.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\bin\Debug\Pelota.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\bin\Debug\Pelota.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\bin\Debug\Pelota.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Pelota\Pelota\Pelota\obj\Debug\Pelota.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\bin\Debug\Pelota.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\bin\Debug\Pelota.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\bin\Debug\Pelota.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P19 - Pelota\Pelota\Pelota\obj\Debug\Pelota.csproj.GenerateResource.Cache
