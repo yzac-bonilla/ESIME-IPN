@@ -1,0 +1,39 @@
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe.config
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.pdb
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csprojResolveAssemblyReference.cache
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Form1.resources
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Properties.Resources.resources
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.exe
+H:\Ingenieria de software\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Proyectos\P5 - Paint Basico\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con el Raton\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\bin\Debug\Figuras_Eventos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P18 - Dibujar figuras con Mouse\Figuras_Eventos\Figuras_Eventos\obj\Debug\Figuras_Eventos.csproj.GenerateResource.Cache
