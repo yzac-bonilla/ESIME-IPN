@@ -1,0 +1,27 @@
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe.config
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.pdb
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csprojResolveAssemblyReference.cache
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Form1.resources
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Properties.Resources.resources
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.exe
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\bin\Debug\Graficador_Parametricas.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P22 - Graficador Parametricas\Graficador_Parametricas\Graficador_Parametricas\obj\Debug\Graficador_Parametricas.csproj.GenerateResource.Cache
