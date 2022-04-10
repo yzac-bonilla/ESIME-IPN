@@ -1,0 +1,105 @@
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form12.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form13.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form14.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form15.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form16.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form17.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form18.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form19.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form20.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form21.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form10.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form11.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form12.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form13.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form14.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form15.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form16.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form17.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form18.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form19.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form20.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form21.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form5.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form7.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form8.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form9.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form22.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form23.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form24.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form25.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form26.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form27.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form28.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form29.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form30.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form31.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P7 - Republica Mexicana\Republica_mexicana\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form32.resources
