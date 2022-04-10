@@ -1,0 +1,11 @@
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\bin\Debug\Mi_Album_2.exe.config
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\bin\Debug\Mi_Album_2.exe
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\bin\Debug\Mi_Album_2.pdb
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.Form1.resources
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.Properties.Resources.resources
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.csproj.GenerateResource.Cache
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.exe
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x\Base Access 2\Mi_Album_2\Mi_Album_2\bin\Debug\Mi_Album_2.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP22x\Base Access 2\Mi_Album_2\Mi_Album_2\obj\Debug\Mi_Album_2.pdb
