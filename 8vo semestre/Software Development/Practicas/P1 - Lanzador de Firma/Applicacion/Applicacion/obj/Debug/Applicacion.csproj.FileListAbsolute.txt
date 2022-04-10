@@ -1,0 +1,38 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\bin\Debug\Applicacion.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\bin\Debug\Applicacion.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\bin\Debug\Applicacion.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\obj\Debug\Applicacion.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\obj\Debug\Applicacion.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\obj\Debug\Applicacion.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\obj\Debug\Applicacion.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Applicacion\Applicacion\obj\Debug\Applicacion.pdb
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.exe.config
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.exe
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.pdb
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.exe
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.pdb
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.Form1.resources
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.csproj.GenerateResource.Cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\bin\Debug\Applicacion.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1\Applicacion\Applicacion\obj\Debug\Applicacion.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\bin\Debug\Applicacion.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\bin\Debug\Applicacion.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\bin\Debug\Applicacion.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P1 - Lanzador de Firma\Applicacion\Applicacion\obj\Debug\Applicacion.csproj.GenerateResource.Cache
