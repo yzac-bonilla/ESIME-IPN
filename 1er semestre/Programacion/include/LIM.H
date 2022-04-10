@@ -1,0 +1,30 @@
+/*
+   Bonilla Silva Isaac
+   1CM8
+   2013300995
+   lee e imprimir una matriz
+ */
+	void leemat(int m, int n, float x[nf][nc])
+		{
+			int i,j;
+			for(i=1;i<=m;i++)
+				for(j=1;j<=n;j++)
+					scanf("%f",&x[i][j]);
+		}
+	void impmat(int m,int n,float y[nf][nc])
+		{
+			int i,j;
+			for(i=1;i<=m;i++)
+				{
+					printf("\n\n\t\t");
+					for(j=1;j<=n;j++)
+						printf("   %.2f",y[i][j]);
+				}
+		}
+	int leer(void)
+		{
+			int R;
+			scanf("%d",&R);
+			return(R);
+		}
+

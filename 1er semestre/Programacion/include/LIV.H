@@ -1,0 +1,27 @@
+/*
+   Bonilla Silva Isaac
+   1CM8
+   2013300995
+   Libreria que Lee e Imprime un Vector
+ */
+	#include<stdio.h>
+	#include<conio.h>
+	void leevec(int m,float x[ne])
+	 {
+		int i;
+		for(i=1;i<=m;i++)
+		scanf("%f",&x[i]);
+	 }
+	void impvec(int m, float y[ne])
+	 {
+     	int i;
+		for(i=1;i<=m;i++)
+		printf("[%d]=%.2f\n\n\t\t",i,y[i]);
+	 }
+ int le(void)
+	{
+		int Z;
+		scanf("%d",&Z);
+		return(Z);
+	}
+
