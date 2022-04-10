@@ -1,0 +1,17 @@
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.exe.config
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.exe
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.pdb
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.Form1.resources
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.Properties.Resources.resources
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.exe
+H:\Ingenieria de software\Nueva carpeta\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\bin\Debug\Pixel_Evento.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P17 - Dibujar Pixel con Mouse\Pixel_Evento\Pixel_Evento\obj\Debug\Pixel_Evento.csproj.GenerateResource.Cache
