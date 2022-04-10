@@ -1,0 +1,42 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\bin\Debug\Bonilla.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\bin\Debug\Bonilla.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.csprojResolveAssemblyReference.cache
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.pdb
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.Form1.resources
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.csproj.GenerateResource.Cache
+E:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+E:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+E:\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\bin\Debug\Bonilla.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\bin\Debug\Bonilla.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\bin\Debug\Bonilla.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P0 - Firma\Bonilla\Bonilla\obj\Debug\Bonilla.csproj.GenerateResource.Cache
