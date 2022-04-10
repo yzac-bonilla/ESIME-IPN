@@ -1,0 +1,35 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\bin\Debug\Lanzador_Archivos.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P5 - Lanzador de Archivos\Lanzador_Archivos\Lanzador_Archivos\obj\Debug\Lanzador_Archivos.csproj.GenerateResource.Cache
