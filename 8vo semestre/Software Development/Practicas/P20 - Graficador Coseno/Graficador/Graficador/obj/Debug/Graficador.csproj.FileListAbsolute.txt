@@ -1,0 +1,27 @@
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\bin\Debug\Graficador.exe.config
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\bin\Debug\Graficador.exe
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\bin\Debug\Graficador.pdb
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.exe
+D:\Ingenieria de software\Practicas\practicas\Graficador\Graficador\obj\Debug\Graficador.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\bin\Debug\Graficador.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\bin\Debug\Graficador.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\bin\Debug\Graficador.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\bin\Debug\Graficador.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P20 - Graficador Coseno\Graficador\Graficador\obj\Debug\Graficador.csproj.GenerateResource.Cache
