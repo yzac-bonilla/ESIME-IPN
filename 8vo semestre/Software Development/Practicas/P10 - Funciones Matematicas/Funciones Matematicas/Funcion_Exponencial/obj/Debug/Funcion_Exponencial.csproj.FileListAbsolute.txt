@@ -1,0 +1,36 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csprojResolveAssemblyReference.cache
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Funcion_Exponencial\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\bin\Debug\Funcion_Exponencial.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P10 - Funciones Matematicas\Funciones Matematicas\Funcion_Exponencial\obj\Debug\Funcion_Exponencial.csproj.GenerateResource.Cache
