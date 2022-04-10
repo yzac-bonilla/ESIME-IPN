@@ -1,0 +1,27 @@
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\ipn\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P13\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P14 - Lanzador de Aplicaciones por Alarma\Lanzador de app con alarma\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
