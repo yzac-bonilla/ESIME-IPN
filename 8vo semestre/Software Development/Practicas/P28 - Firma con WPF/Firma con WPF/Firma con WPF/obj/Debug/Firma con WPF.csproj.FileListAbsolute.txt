@@ -1,0 +1,28 @@
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.exe.config
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.exe
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.pdb
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.csprojResolveAssemblyReference.cache
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\MainWindow.g.cs
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\App.g.cs
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF_MarkupCompile.cache
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF_MarkupCompile.lref
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\MainWindow.baml
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.g.resources
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma_con_WPF.Properties.Resources.resources
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.csproj.GenerateResource.Cache
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.exe
+H:\Ingenieria de software\Practicas\nueva\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\bin\Debug\Firma con WPF.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\App.g.cs
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF_MarkupCompile.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF_MarkupCompile.lref
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\MainWindow.baml
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.g.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma_con_WPF.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\xP18x\Firma con WPF\Firma con WPF\obj\Debug\Firma con WPF.csproj.GenerateResource.Cache
