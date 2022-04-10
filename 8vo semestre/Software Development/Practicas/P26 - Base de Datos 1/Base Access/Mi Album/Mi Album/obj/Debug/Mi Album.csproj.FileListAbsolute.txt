@@ -1,0 +1,10 @@
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\bin\Debug\Mi Album.exe.config
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\bin\Debug\Album.accdb
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\bin\Debug\Mi Album.exe
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\bin\Debug\Mi Album.pdb
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi Album.csprojResolveAssemblyReference.cache
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi_Album.Form1.resources
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi_Album.Properties.Resources.resources
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi Album.csproj.GenerateResource.Cache
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi Album.exe
+F:\Ingenieria de software\Practicas\Nueva carpeta\Base Access\Mi Album\Mi Album\obj\Debug\Mi Album.pdb
