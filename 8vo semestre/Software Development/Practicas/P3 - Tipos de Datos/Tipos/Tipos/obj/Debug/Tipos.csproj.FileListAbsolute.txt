@@ -1,0 +1,11 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Tipos\Tipos\bin\Debug\Tipos.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Tipos\Tipos\bin\Debug\Tipos.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Tipos\Tipos\bin\Debug\Tipos.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Tipos\Tipos\obj\Debug\Tipos.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Tipos\Tipos\obj\Debug\Tipos.pdb
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\bin\Debug\Tipos.exe.config
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\obj\Debug\Tipos.exe
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\obj\Debug\Tipos.pdb
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\bin\Debug\Tipos.exe
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\bin\Debug\Tipos.pdb
+D:\Ingenieria de software\Practicas\P3\Tipos\Tipos\obj\Debug\Tipos.csprojResolveAssemblyReference.cache
