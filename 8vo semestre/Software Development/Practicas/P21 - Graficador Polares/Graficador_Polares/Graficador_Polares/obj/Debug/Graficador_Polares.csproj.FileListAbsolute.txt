@@ -1,0 +1,36 @@
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe.config
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csprojResolveAssemblyReference.cache
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Form1.resources
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Properties.Resources.resources
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csproj.GenerateResource.Cache
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.pdb
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.exe
+D:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.pdb
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe.config
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.exe
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.pdb
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.pdb
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csprojResolveAssemblyReference.cache
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Form1.resources
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Properties.Resources.resources
+H:\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\Nueva carpeta\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\bin\Debug\Graficador_Polares.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P21 - Graficador Polares\Graficador_Polares\Graficador_Polares\obj\Debug\Graficador_Polares.csproj.GenerateResource.Cache
