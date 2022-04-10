@@ -1,0 +1,33 @@
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe.config
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.pdb
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csprojResolveAssemblyReference.cache
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form1.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form2.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Properties.Resources.resources
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csproj.GenerateResource.Cache
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.exe
+c:\users\ipn\documents\visual studio 2015\Projects\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe.config
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form1.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form2.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Properties.Resources.resources
+C:\Users\yzac_\OneDrive\Documentos\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csproj.GenerateResource.Cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe.config
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.exe
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\bin\Debug\Lanzar_Formulario.pdb
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csprojResolveAssemblyReference.cache
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form1.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Form2.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.Properties.Resources.resources
+C:\Users\yzac_\Documents\Esime\8CM11\Ingenieria de software\Practicas\P4 - Lanzador de Form\Lanzar_Formulario\Lanzar_Formulario\obj\Debug\Lanzar_Formulario.csproj.GenerateResource.Cache
